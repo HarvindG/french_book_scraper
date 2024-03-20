@@ -1,6 +1,6 @@
 ## About
 
-Project to extract ccntent from books on the project guttenburg platform which are french language. Book content is scrapped, formed into sentences and cleaned. Sentences are then exported into .csv file including 
+Project to extract ccntent from books on the project guttenburg platform which are french language. Book content is scrapped, formed into sentences and cleaned. Sentences are then exported into .csv file including sentence IDs and created_at timestamp.
 
 
 ## Setup
